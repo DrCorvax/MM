@@ -1,0 +1,8 @@
+<rss version="2.0" xmlns:jwplayer="http://developer.longtailvideo.com/">
+  <channel>
+    <title>Mya Maria playlist</title>
+    <item>
+      <jwplayer:file>audio/Track01.mp3</jwplayer:file>
+    </item>
+  </channel>
+</rss>

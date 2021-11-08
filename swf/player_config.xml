@@ -1,0 +1,8 @@
+<config>
+  <playlistfile>swf/playlist.xml</playlistfile>
+  <autostart>true</autostart>
+  <repeat>always</repeat>
+  <backcolor>ffffff</backcolor>
+  <frontcolor>000000</frontcolor>
+  <lightcolor>000000</lightcolor>
+</config>
